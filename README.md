@@ -198,23 +198,6 @@ VGG16 achieved the highest accuracy and lowest false positive rate, making it th
 
 ---
 
-## Research Paper
-
-This project was developed as part of academic research:
-
-**Down Syndrome Detection from Facial Images Using Machine Learning**
-
-Authors:
-- Yugam Jain
-- Ekansh Gupta
-- Mahima Singh
-- Aryan Verma
-- Nishant Sharma
-
-Jaypee University of Information Technology
-
----
-
 ## Disclaimer
 
 This system is intended as a supportive screening tool only and should not replace professional medical diagnosis, genetic testing, or clinical evaluation.
